@@ -1,0 +1,27 @@
+{
+  "selectedChain": "534351",
+  "1337": {
+    "chainId": "1337",
+    "chainName": "Localhost 8545",
+    "rpcUrls": [
+      "http://localhost:8545"
+    ],
+    "nativeCurrency": {
+      "symbol": "ETH"
+    },
+    "blockExplorerUrls": []
+  },
+  "314": {
+    "chainId": "534351",
+    "chainName": "Scroll Sepolia Testnet",
+    "rpcUrls": [
+      "https://scroll-sepolia.drpc.org"
+    ],
+    "nativeCurrency": {
+      "symbol": ""ETH""
+    },
+    "blockExplorerUrls": [
+      "https://sepolia.scrollscan.com/"
+    ]
+  }
+}
