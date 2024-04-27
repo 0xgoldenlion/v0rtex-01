@@ -11,14 +11,14 @@
     },
     "blockExplorerUrls": []
   },
-  "314": {
+  "534351": {
     "chainId": "534351",
     "chainName": "Scroll Sepolia Testnet",
     "rpcUrls": [
       "https://scroll-sepolia.drpc.org"
     ],
     "nativeCurrency": {
-      "symbol": ""ETH""
+      "symbol": "ETH"
     },
     "blockExplorerUrls": [
       "https://sepolia.scrollscan.com/"
